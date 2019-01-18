@@ -10,8 +10,8 @@ import java.lang.Math.*;
  */
 public class strLength {
     public static void main(String[]args) {
-        String input = "Random text";
-        int strLength = input.length();
+        String input = "Random text";       //assigning the String to a variable
+        int strLength = input.length();     //finding the length of the variable
         System.out.println(strLength);
         }
     }
