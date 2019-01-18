@@ -11,7 +11,7 @@ import java.lang.Math.*;
 public class strLength {
     public static void main(String[]args) {
         String input = "Random text";       //assigning the String to a variable
-        int strLength = input.length();     //finding the length of the variable
+        int strLength = input.length();     //finding the length of the assigned variable
         System.out.println(strLength);
         }
     }
