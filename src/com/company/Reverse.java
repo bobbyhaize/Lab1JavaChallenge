@@ -1,5 +1,11 @@
 package com.company;
 import java.util.Scanner;
+/**
+ * @author Ted Asare
+ * 86942021
+ * @author Kwaku Bobie Osei-Tutu
+ * 94422021
+ */
 public class Reverse {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
