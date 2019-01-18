@@ -11,7 +11,7 @@ import java.lang.Math.*;
 public class strLength {
     public static void main(String[]args) {
         String input = "Random text";       //assigning the String to a variable
-        int strLength = 0;     
+        int strLength = 0;      		//Counter for the number of characters initialized to zero.
         for (int i=0; i < input.length(); i++) {    //finding the length of the assigned variable
 			strLength++;
 		}
